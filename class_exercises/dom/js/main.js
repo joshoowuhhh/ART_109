@@ -1,5 +1,7 @@
 
-document.querySelector("#image-")
+document.querySelector("#image-1").addEventListener("click", function(){
+    document,querySelector("image-1").style.visibility = "hidden";
+})
 
 console.log("hello hello");
 
